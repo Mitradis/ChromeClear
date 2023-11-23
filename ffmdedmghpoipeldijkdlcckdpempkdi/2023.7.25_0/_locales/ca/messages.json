@@ -1,0 +1,38 @@
+{
+   "changeTab": {
+      "message": "Vols seguir ordenant els vídeos pels més vistos?"
+   },
+   "changeTabFb": {
+      "message": "Vols continuar amb la càrrega automàtica de la foto?"
+   },
+   "description": {
+      "message": "Ordena vídeos d'usuaris pels més vistos."
+   },
+   "extDescription": {
+      "message": "Ordena vídeos d'usuaris de TikTok pels més vistos."
+   },
+   "extNotWork": {
+      "message": "Si no funciona, intenta actualitzar la pàgina."
+   },
+   "incompatibleVersion": {
+      "message": "L'extensió no és compatible amb la versió web de TikTok.\nSi us plau contacta amb el desenvolupador."
+   },
+   "noVideos": {
+      "message": "L'usuari no té cap vídeo."
+   },
+   "notPhotosPage": {
+      "message": "Aquesta funció només funciona a les pàgines de fotos dels perfils d'usuari."
+   },
+   "notUserPage": {
+      "message": "L'extensió només funciona en pàgines d'usuaris."
+   },
+   "start": {
+      "message": "Iniciar"
+   },
+   "stop": {
+      "message": "Parar"
+   },
+   "warningAlert": {
+      "message": "Per tal de protegir el vostre compte, recomanem utilitzar sempre l'extensió sense iniciar sessió a TikTok."
+   }
+}

@@ -1,0 +1,253 @@
+{
+   "Add_Google_bookmark_dialog": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Bookmarks_Menu": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Bookmarks_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Context_menu": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Mouse_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Options_page": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "UI_settings_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "addBookmark": {
+      "message": "Bookmark This Page"
+   },
+   "btnAdd": {
+      "message": "Ok"
+   },
+   "btnCancel": {
+      "message": "Cancel"
+   },
+   "btnDonate": {
+      "message": "Send via PayPal"
+   },
+   "changelog": {
+      "message": "View changelog"
+   },
+   "donateHeader": {
+      "message": "I'm glad that you use this extension.\u003Cbr/>If you like it very much, you can sponsor me.\u003Cbr/>Thank you!"
+   },
+   "donateQuestion": {
+      "message": "Do you like Bookmarks Menu?"
+   },
+   "donateWith": {
+      "message": "Donate with"
+   },
+   "empty": {
+      "message": "empty"
+   },
+   "extDescription": {
+      "message": "Shows bookmarks menu."
+   },
+   "extTitle": {
+      "message": "Bookmarks"
+   },
+   "extTitleGoogle": {
+      "message": "Google Bookmarks"
+   },
+   "failedRetrieveGBookmakrs": {
+      "message": "Failed to retrieve Google Bookmarks.\u003Cbr/>Please login to \u003Ca target=\"blank\" href=\"https://www.google.com/bookmarks/\">https://www.google.com/bookmarks/\u003C/a> at first."
+   },
+   "lblLabel": {
+      "message": "Label:"
+   },
+   "lblTitle": {
+      "message": "Title:"
+   },
+   "lblURL": {
+      "message": "URL:"
+   },
+   "loadingIndicator": {
+      "message": "Loading..."
+   },
+   "mainHeader": {
+      "message": "'Bookmarks Menu' settings"
+   },
+   "manifest_json": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "openAllBookmarks": {
+      "message": "Open All Bookmarks"
+   },
+   "openAllBookmarksInIncognitoWindow": {
+      "message": "Open All Bookmarks in Incognito Window"
+   },
+   "openAllBookmarksInNewWindow": {
+      "message": "Open All Bookmarks in New Window"
+   },
+   "openAllInTabs": {
+      "message": "Open All in Tabs"
+   },
+   "openBookmarkManager": {
+      "message": "Bookmark Manager"
+   },
+   "openInIncognitoWindow": {
+      "message": "Open in Incognito Window"
+   },
+   "openInNewTab": {
+      "message": "Open in New Tab"
+   },
+   "openInNewWindow": {
+      "message": "Open in New Window"
+   },
+   "reloadGBookmarks": {
+      "message": "Reload Google Bookmarks"
+   },
+   "remove": {
+      "message": "Delete"
+   },
+   "reorder": {
+      "message": "Reorder by Title"
+   },
+   "tabBookmarks": {
+      "message": "Bookmarks"
+   },
+   "tabMouse": {
+      "message": "Mouse"
+   },
+   "tabWindow": {
+      "message": "UI Settings"
+   },
+   "tabs_names": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "tbLabelSeparator": {
+      "message": "Label separator:"
+   },
+   "tbSelectAllBookmarks": {
+      "message": "Select/Deselect all bookmarks"
+   },
+   "tbSelectBookmarks": {
+      "message": "Select bookmarks you wish to display"
+   },
+   "tbUseChrome": {
+      "message": "Use Chrome bookmarks"
+   },
+   "tbUseGoogle": {
+      "message": "Use Google bookmarks"
+   },
+   "tmLeftBtn": {
+      "message": "Left button"
+   },
+   "tmMiddleBtn": {
+      "message": "Middle button"
+   },
+   "tmMouseConfig": {
+      "message": "Mouse configuration"
+   },
+   "tmOpenInCurTab": {
+      "message": "Open in current tab"
+   },
+   "tmOpenInNewTab": {
+      "message": "Open in new tab"
+   },
+   "tmRightBtn": {
+      "message": "Right button"
+   },
+   "tmShowContextMenu": {
+      "message": "Show context menu"
+   },
+   "tmSwitchToNewTab": {
+      "message": "When I open a bookmark in new tab, switch to it immediately"
+   },
+   "twActiveBmBgClr": {
+      "message": "Background color of highlighted bookmark:"
+   },
+   "twActiveBmBgClrFrom": {
+      "message": "gradient from:"
+   },
+   "twActiveBmBgClrTo": {
+      "message": "gradient to:"
+   },
+   "twActiveBmFntClr": {
+      "message": "Font color of highlighted bookmark:"
+   },
+   "twBmBgColor": {
+      "message": "Bookmark background color:"
+   },
+   "twBodyColor": {
+      "message": "Window background color:"
+   },
+   "twColorScheme": {
+      "message": "Color scheme"
+   },
+   "twContextMenu": {
+      "message": "Context menu settings"
+   },
+   "twDisabledItemFntClr": {
+      "message": "Font color of disabled menu item:"
+   },
+   "twFaviconSize": {
+      "message": "Favicon width and height:"
+   },
+   "twFont": {
+      "message": "Font:"
+   },
+   "twFontColor": {
+      "message": "Font color:"
+   },
+   "twFontSize": {
+      "message": "Font size:"
+   },
+   "twHideCMModeSwitcher": {
+      "message": "Hide menu item 'Use Chrome/Google bookmarks'"
+   },
+   "twHideCMOpenIncognito": {
+      "message": "Hide menu item 'Open in Incognito Window'"
+   },
+   "twMaxBookmarkWidth": {
+      "message": "Max width for bookmark:"
+   },
+   "twMaxBookmarkWidthCM": {
+      "message": "centimeters"
+   },
+   "twMaxBookmarkWidthEM": {
+      "message": "'m' symbols"
+   },
+   "twMaxBookmarkWidthIN": {
+      "message": "inches"
+   },
+   "twMaxBookmarkWidthMM": {
+      "message": "millimeters"
+   },
+   "twMaxBookmarkWidthPX": {
+      "message": "pixels"
+   },
+   "twMeasurePX": {
+      "message": "px"
+   },
+   "twMenuConfig": {
+      "message": "Bookmarks menu configuration"
+   },
+   "twRestoreDefault": {
+      "message": "Restore default settings"
+   },
+   "twScrollBarWidth": {
+      "message": "Scrollbar width:"
+   },
+   "twShowTooltip": {
+      "message": "Show tooltip for long bookmark names"
+   },
+   "twShowURL": {
+      "message": "Show tooltip with bookmark location"
+   },
+   "version": {
+      "message": "Version $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   }
+}

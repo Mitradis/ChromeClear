@@ -1,0 +1,253 @@
+{
+   "Add_Google_bookmark_dialog": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Bookmarks_Menu": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Bookmarks_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Context_menu": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Mouse_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Options_page": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "UI_settings_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "addBookmark": {
+      "message": "Добавить страницу в закладки"
+   },
+   "btnAdd": {
+      "message": "Готово"
+   },
+   "btnCancel": {
+      "message": "Отменить"
+   },
+   "btnDonate": {
+      "message": "Отправить через PayPal"
+   },
+   "changelog": {
+      "message": "Посмотреть историю изменений"
+   },
+   "donateHeader": {
+      "message": "Я рад, что Вы используете это расширение.\u003Cbr/>Если оно Вам очень нравится, то Вы можете меня проспонсировать.\u003Cbr/>Спасибо!"
+   },
+   "donateQuestion": {
+      "message": "Вам нравится Bookmarks Menu?"
+   },
+   "donateWith": {
+      "message": "Поддержите через"
+   },
+   "empty": {
+      "message": "пусто"
+   },
+   "extDescription": {
+      "message": "Показывает меню закладок."
+   },
+   "extTitle": {
+      "message": "Закладки"
+   },
+   "extTitleGoogle": {
+      "message": "Закладки Google"
+   },
+   "failedRetrieveGBookmakrs": {
+      "message": "Не удалось загрузить закладки Google.\u003Cbr/>Скорее всего Вам нужно залогиниться на \u003Ca target=\"blank\" href=\"https://www.google.com/bookmarks/\">https://www.google.com/bookmarks/\u003C/a>"
+   },
+   "lblLabel": {
+      "message": "Метка:"
+   },
+   "lblTitle": {
+      "message": "Название:"
+   },
+   "lblURL": {
+      "message": "Ссылка:"
+   },
+   "loadingIndicator": {
+      "message": "Загрузка..."
+   },
+   "mainHeader": {
+      "message": "Настройки 'Bookmarks Menu'"
+   },
+   "manifest_json": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "openAllBookmarks": {
+      "message": "Открыть все закладки"
+   },
+   "openAllBookmarksInIncognitoWindow": {
+      "message": "Открыть все закладки в режиме инкогнито"
+   },
+   "openAllBookmarksInNewWindow": {
+      "message": "Открыть все закладки в новом окне"
+   },
+   "openAllInTabs": {
+      "message": "Открыть всё во вкладках"
+   },
+   "openBookmarkManager": {
+      "message": "Диспетчер закладок"
+   },
+   "openInIncognitoWindow": {
+      "message": "Открыть в режиме инкогнито"
+   },
+   "openInNewTab": {
+      "message": "Открыть в новой вкладке"
+   },
+   "openInNewWindow": {
+      "message": "Открыть в новом окне"
+   },
+   "reloadGBookmarks": {
+      "message": "Перезагрузить закладки Google"
+   },
+   "remove": {
+      "message": "Удалить"
+   },
+   "reorder": {
+      "message": "Упорядочить по заголовкам"
+   },
+   "tabBookmarks": {
+      "message": "Закладки"
+   },
+   "tabMouse": {
+      "message": "Мышь"
+   },
+   "tabWindow": {
+      "message": "Настройки интерфейса"
+   },
+   "tabs_names": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "tbLabelSeparator": {
+      "message": "Разделитель меток:"
+   },
+   "tbSelectAllBookmarks": {
+      "message": "Выбрать все закладки"
+   },
+   "tbSelectBookmarks": {
+      "message": "Выберите закладки, которые нужно показывать"
+   },
+   "tbUseChrome": {
+      "message": "Использовать закладки Chrome"
+   },
+   "tbUseGoogle": {
+      "message": "Использовать закладки Google"
+   },
+   "tmLeftBtn": {
+      "message": "Левая кнопка"
+   },
+   "tmMiddleBtn": {
+      "message": "Средняя кнопка"
+   },
+   "tmMouseConfig": {
+      "message": "Настройка жестов мыши"
+   },
+   "tmOpenInCurTab": {
+      "message": "Открыть в текущей вкладке"
+   },
+   "tmOpenInNewTab": {
+      "message": "Открыть в новой вкладке"
+   },
+   "tmRightBtn": {
+      "message": "Правая кнопка"
+   },
+   "tmShowContextMenu": {
+      "message": "Показать контекстное меню"
+   },
+   "tmSwitchToNewTab": {
+      "message": "Переключаться на открываемую вкладку"
+   },
+   "twActiveBmBgClr": {
+      "message": "Цвет фона подсвеченной закладки (градиент):"
+   },
+   "twActiveBmBgClrFrom": {
+      "message": "от:"
+   },
+   "twActiveBmBgClrTo": {
+      "message": "до:"
+   },
+   "twActiveBmFntClr": {
+      "message": "Цвет текста подсвеченной закладки:"
+   },
+   "twBmBgColor": {
+      "message": "Цвет фона закладки:"
+   },
+   "twBodyColor": {
+      "message": "Цвет фона окна:"
+   },
+   "twColorScheme": {
+      "message": "Настройка цветов"
+   },
+   "twContextMenu": {
+      "message": "Настройки контекстного меню"
+   },
+   "twDisabledItemFntClr": {
+      "message": "Цвет текста запрещённых элементов меню:"
+   },
+   "twFaviconSize": {
+      "message": "Ширина и высота иконок:"
+   },
+   "twFont": {
+      "message": "Шрифт:"
+   },
+   "twFontColor": {
+      "message": "Цвет текста:"
+   },
+   "twFontSize": {
+      "message": "Размер шрифта:"
+   },
+   "twHideCMModeSwitcher": {
+      "message": "Скрыть пункт 'Использовать закладки Chrome/Google'"
+   },
+   "twHideCMOpenIncognito": {
+      "message": "Скрыть пункт 'Открыть в режиме инкогнито'"
+   },
+   "twMaxBookmarkWidth": {
+      "message": "Максмальная ширина закладок:"
+   },
+   "twMaxBookmarkWidthCM": {
+      "message": "сантиметров"
+   },
+   "twMaxBookmarkWidthEM": {
+      "message": "символов 'm'"
+   },
+   "twMaxBookmarkWidthIN": {
+      "message": "дюймов"
+   },
+   "twMaxBookmarkWidthMM": {
+      "message": "милиметров"
+   },
+   "twMaxBookmarkWidthPX": {
+      "message": "пикселей"
+   },
+   "twMeasurePX": {
+      "message": "пикс"
+   },
+   "twMenuConfig": {
+      "message": "Настройка меню закладок"
+   },
+   "twRestoreDefault": {
+      "message": "Восстановить значения по умолчанию"
+   },
+   "twScrollBarWidth": {
+      "message": "Ширина полосы прокрутки:"
+   },
+   "twShowTooltip": {
+      "message": "Показывать всплывающую подсказку для длинных названий"
+   },
+   "twShowURL": {
+      "message": "Показывать всплывающую подсказку c адресом закладки"
+   },
+   "version": {
+      "message": "Версия $VERSION$",
+      "placeholders": {
+         "VERSION": {
+            "content": "$1"
+         }
+      }
+   }
+}

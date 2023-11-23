@@ -1,0 +1,20 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "images/icon_19x19.png"
+   },
+   "description": "Provides quick icon access to your browser history.",
+   "icons": {
+      "128": "images/icon_128x128.png",
+      "32": "images/icon_32x32.png",
+      "48": "images/icon_48x48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDJMGZiP3M7NJhlNpL/XGDEX4cj9gZ935KCmQr+kCYYRWFKbZDRmNIxShYZLB1wouN7W5XjwJEg6wZ9nPYedMEMzVFcgu0r/Im43PMCORCZCDgxMWuQdM14ByQT17IA5TZcYvZ/G99bTk59ChNvP3iic8cCx13Mexz6XmaW5+I9kQIDAQAB",
+   "manifest_version": 2,
+   "name": "History Button",
+   "permissions": [ "tabs" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "0.2"
+}

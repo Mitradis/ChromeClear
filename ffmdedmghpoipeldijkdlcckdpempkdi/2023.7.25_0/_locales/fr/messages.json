@@ -1,0 +1,246 @@
+{
+   "Add_Google_bookmark_dialog": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Bookmarks_Menu": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Bookmarks_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Context_menu": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Mouse_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Options_page": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "UI_settings_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "addBookmark": {
+      "message": "Marquer cette page"
+   },
+   "btnAdd": {
+      "message": "Ok"
+   },
+   "btnCancel": {
+      "message": "Annuler"
+   },
+   "btnDonate": {
+      "message": "Envoyer via PayPal"
+   },
+   "changelog": {
+      "message": "Regarder journal des modifications"
+   },
+   "donateHeader": {
+      "message": "Je suis content que vous utilisez cette extension.\u003Cbr/>Si vous l'aimez, vous pouvez me sponsoriser.\u003Cbr/>Merci beaucoup !"
+   },
+   "donateQuestion": {
+      "message": "Aimez-vous Bookmarks Menu?"
+   },
+   "donateWith": {
+      "message": "Faites un don via"
+   },
+   "empty": {
+      "message": "vide"
+   },
+   "extDescription": {
+      "message": "Montre le menu des favoris."
+   },
+   "extTitle": {
+      "message": "Favoris"
+   },
+   "extTitleGoogle": {
+      "message": "Favoris de Google"
+   },
+   "failedRetrieveGBookmakrs": {
+      "message": "Impossible de récupérer les favoris de Google.\u003Cbr/>Veuillez vous connecter à \u003Ca target=\"blank\" href=\"https://www.google.com/bookmarks/\">https://www.google.com/bookmarks/\u003C/a>"
+   },
+   "lblLabel": {
+      "message": "Labels :"
+   },
+   "lblTitle": {
+      "message": "Nom :"
+   },
+   "lblURL": {
+      "message": "Lien :"
+   },
+   "loadingIndicator": {
+      "message": "Chargement..."
+   },
+   "mainHeader": {
+      "message": "Configuration de 'Bookmarks Menu'"
+   },
+   "manifest_json": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "openAllBookmarks": {
+      "message": "Ouvrir tous les favoris"
+   },
+   "openAllBookmarksInIncognitoWindow": {
+      "message": "Ouvrir tous les favoris dans une fenêtre de navigation privée"
+   },
+   "openAllBookmarksInNewWindow": {
+      "message": "Ouvrir tous les favoris dans une nouvelle fenêtre"
+   },
+   "openAllInTabs": {
+      "commentaire": "traduction de Firefox",
+      "message": "Tout ouvrir dans des onglets"
+   },
+   "openBookmarkManager": {
+      "message": "Gestionnaire de favoris"
+   },
+   "openInIncognitoWindow": {
+      "message": "Ouvrir dans une fenêtre de navigation privée"
+   },
+   "openInNewTab": {
+      "message": "Ouvrir dans un nouvel onglet"
+   },
+   "openInNewWindow": {
+      "message": "Ouvrir dans une nouvelle fenêtre"
+   },
+   "reloadGBookmarks": {
+      "message": "Actualiser les favoris de Google"
+   },
+   "remove": {
+      "message": "Supprimer"
+   },
+   "reorder": {
+      "message": "Trier par nom"
+   },
+   "tabBookmarks": {
+      "message": "Favoris"
+   },
+   "tabMouse": {
+      "message": "Souris"
+   },
+   "tabWindow": {
+      "message": "Options de l'interface"
+   },
+   "tabs_names": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "tbLabelSeparator": {
+      "message": "Séparateur des labels :"
+   },
+   "tbSelectAllBookmarks": {
+      "message": "Sélectionner / Désélectionner tous les favoris"
+   },
+   "tbSelectBookmarks": {
+      "message": "Sélectionnez les favoris que vous souhaitez afficher"
+   },
+   "tbUseChrome": {
+      "message": "Utiliser les favoris de Chrome"
+   },
+   "tbUseGoogle": {
+      "message": "Utiliser les favoris de Google"
+   },
+   "tmLeftBtn": {
+      "message": "Bouton gauche"
+   },
+   "tmMiddleBtn": {
+      "message": "Bouton molette"
+   },
+   "tmMouseConfig": {
+      "message": "Configuration de la souris"
+   },
+   "tmOpenInCurTab": {
+      "message": "Ouvrir dans l'onglet courant"
+   },
+   "tmOpenInNewTab": {
+      "message": "Ouvrir dans un nouvel onglet"
+   },
+   "tmRightBtn": {
+      "message": "Bouton droit"
+   },
+   "tmShowContextMenu": {
+      "message": "Montrer menu contextuel"
+   },
+   "tmSwitchToNewTab": {
+      "message": "Lors de l'ouverture d'un lien dans un nouvel onglet, basculer vers celui-ci immédiatement"
+   },
+   "twActiveBmBgClr": {
+      "message": "Couleur du fond du favori surligné (gradient) :"
+   },
+   "twActiveBmBgClrFrom": {
+      "message": "de :"
+   },
+   "twActiveBmBgClrTo": {
+      "message": "jusqu'à :"
+   },
+   "twActiveBmFntClr": {
+      "message": "Couleur du text du favori surligné :"
+   },
+   "twBmBgColor": {
+      "message": "Couleur du fond des favoris :"
+   },
+   "twBodyColor": {
+      "message": "Couleur du fond de la fenêtre :"
+   },
+   "twColorScheme": {
+      "message": "Configuration des couleurs"
+   },
+   "twContextMenu": {
+      "message": "Configuration de menu contextuel"
+   },
+   "twDisabledItemFntClr": {
+      "message": "Couleur du texte du point interdit :"
+   },
+   "twFaviconSize": {
+      "message": "Largeur et hauteur du favicône :"
+   },
+   "twFont": {
+      "message": "Police :"
+   },
+   "twFontColor": {
+      "message": "Couleur du texte :"
+   },
+   "twFontSize": {
+      "message": "Taille de la police :"
+   },
+   "twHideCMModeSwitcher": {
+      "message": "Cacher le point 'Utiliser les favoris de Chrome / Google'"
+   },
+   "twHideCMOpenIncognito": {
+      "message": "Cacher le point 'Ouvrir dans une fenêtre de navigation privée'"
+   },
+   "twMaxBookmarkWidth": {
+      "message": "Largeur maximum pour les favoris :"
+   },
+   "twMaxBookmarkWidthCM": {
+      "message": "centimètres"
+   },
+   "twMaxBookmarkWidthEM": {
+      "message": "'m' symboles"
+   },
+   "twMaxBookmarkWidthIN": {
+      "message": "pouces"
+   },
+   "twMaxBookmarkWidthMM": {
+      "message": "millimètres"
+   },
+   "twMaxBookmarkWidthPX": {
+      "message": "pixels"
+   },
+   "twMeasurePX": {
+      "message": "px"
+   },
+   "twMenuConfig": {
+      "message": "Configuration du menu des favoris"
+   },
+   "twRestoreDefault": {
+      "message": "Restaurer les options par défaut"
+   },
+   "twScrollBarWidth": {
+      "message": "Largeur de la ligne de défilement :"
+   },
+   "twShowTooltip": {
+      "message": "Montrer l'info-bulles pour les noms longs"
+   },
+   "twShowURL": {
+      "message": "Montrer l'info-bulle avec l'adresse du favori"
+   }
+}
