@@ -1,0 +1,245 @@
+{
+   "Add_Google_bookmark_dialog": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Bookmarks_Menu": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Bookmarks_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Context_menu": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Mouse_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "Options_page": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "UI_settings_tab": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "addBookmark": {
+      "message": "Lesezeichen für diese Seite erstellen"
+   },
+   "btnAdd": {
+      "message": "Ok"
+   },
+   "btnCancel": {
+      "message": "Abbrechen"
+   },
+   "btnDonate": {
+      "message": "Send via PayPal"
+   },
+   "changelog": {
+      "message": "Änderungen anschauen"
+   },
+   "donateHeader": {
+      "message": "I'm glad that you use this extension.\u003Cbr/>If you like it very much, you can sponsor me.\u003Cbr/>Thank you!"
+   },
+   "donateQuestion": {
+      "message": "Gefällt Ihnen Bookmarks Menu?"
+   },
+   "donateWith": {
+      "message": "Spenden Sie via"
+   },
+   "empty": {
+      "message": "leer"
+   },
+   "extDescription": {
+      "message": "Zeigt Lesezeichen."
+   },
+   "extTitle": {
+      "message": "Lesezeichen"
+   },
+   "extTitleGoogle": {
+      "message": "Google Bookmarks"
+   },
+   "failedRetrieveGBookmakrs": {
+      "message": "Google Bookmarks konnten nicht abgerufen werden.\u003Cbr/>Bitte loggen Sie an \u003Ca target=\"blank\" href=\"https://www.google.com/bookmarks/\">https://www.google.com/bookmarks/\u003C/a> ein."
+   },
+   "lblLabel": {
+      "message": "Label:"
+   },
+   "lblTitle": {
+      "message": "Name:"
+   },
+   "lblURL": {
+      "message": "URL:"
+   },
+   "loadingIndicator": {
+      "message": "Lädt..."
+   },
+   "mainHeader": {
+      "message": "'Bookmarks Menu' Einstellungen"
+   },
+   "manifest_json": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "openAllBookmarks": {
+      "message": "Alle Lesezeichen öffnen"
+   },
+   "openAllBookmarksInIncognitoWindow": {
+      "message": "Alle Lesezeichen in Inkognito-Fenster öffnen"
+   },
+   "openAllBookmarksInNewWindow": {
+      "message": "Alle Lesezeichen in neuem Fenster öffnen"
+   },
+   "openAllInTabs": {
+      "message": "Alle öffnen"
+   },
+   "openBookmarkManager": {
+      "message": "Lesezeichen-Manager"
+   },
+   "openInIncognitoWindow": {
+      "message": "In Inkognito-Fenster öffnen"
+   },
+   "openInNewTab": {
+      "message": "In neuem Tab öffnen"
+   },
+   "openInNewWindow": {
+      "message": "In neuem Fenster öffnen"
+   },
+   "reloadGBookmarks": {
+      "message": "Google Bookmarks neuladen"
+   },
+   "remove": {
+      "message": "Löschen"
+   },
+   "reorder": {
+      "message": "Nach Namen sortieren"
+   },
+   "tabBookmarks": {
+      "message": "Lesezeichen"
+   },
+   "tabMouse": {
+      "message": "Maus"
+   },
+   "tabWindow": {
+      "message": "UI-Einstellungen"
+   },
+   "tabs_names": {
+      "message": "___ JUST COMMENT ___"
+   },
+   "tbLabelSeparator": {
+      "message": "labels Trennsymbol:"
+   },
+   "tbSelectAllBookmarks": {
+      "message": "Alle Lesezeichen"
+   },
+   "tbSelectBookmarks": {
+      "message": "Wählen Sie Lesezeichen, die angezeigt werden müssen"
+   },
+   "tbUseChrome": {
+      "message": "Chrome bookmarks benutzen"
+   },
+   "tbUseGoogle": {
+      "message": "Google bookmarks benutzen"
+   },
+   "tmLeftBtn": {
+      "message": "Linker Button"
+   },
+   "tmMiddleBtn": {
+      "message": "Mitter Button"
+   },
+   "tmMouseConfig": {
+      "message": "Maus Einstellungen"
+   },
+   "tmOpenInCurTab": {
+      "message": "Öffnen"
+   },
+   "tmOpenInNewTab": {
+      "message": "In neuem Tab öffnen"
+   },
+   "tmRightBtn": {
+      "message": "Rechter Button"
+   },
+   "tmShowContextMenu": {
+      "message": "Kontext-Menü anzeigen"
+   },
+   "tmSwitchToNewTab": {
+      "message": "Tabs im Vordergrund öffnen"
+   },
+   "twActiveBmBgClr": {
+      "message": "Hintegrundfarbe des hervorgehobenen Lesezeichens:"
+   },
+   "twActiveBmBgClrFrom": {
+      "message": "Gradient ab:"
+   },
+   "twActiveBmBgClrTo": {
+      "message": "Gradient bis:"
+   },
+   "twActiveBmFntClr": {
+      "message": "Schriftfarbe des hervorgehobenen Lesezeichens:"
+   },
+   "twBmBgColor": {
+      "message": "Lesezeichenshintegrundfarbe:"
+   },
+   "twBodyColor": {
+      "message": "Fensterhintegrundfarbe:"
+   },
+   "twColorScheme": {
+      "message": "Farben"
+   },
+   "twContextMenu": {
+      "message": "Kontextmenü-Einstellungen"
+   },
+   "twDisabledItemFntClr": {
+      "message": "Schriftfarbe des deaktivierten Eintrags:"
+   },
+   "twFaviconSize": {
+      "message": "Favicon-Größe:"
+   },
+   "twFont": {
+      "message": "Schriftart:"
+   },
+   "twFontColor": {
+      "message": "Schriftfarbe:"
+   },
+   "twFontSize": {
+      "message": "Schriftgröße:"
+   },
+   "twHideCMModeSwitcher": {
+      "message": "Eintrag 'Chrome/Google Lesezeichen benutzen' verstecken"
+   },
+   "twHideCMOpenIncognito": {
+      "message": "Eintrag 'In Inkognito-Fenster öffnen' verstecken"
+   },
+   "twMaxBookmarkWidth": {
+      "message": "Max Breite des Lesezeichens:"
+   },
+   "twMaxBookmarkWidthCM": {
+      "message": "Zentimeter"
+   },
+   "twMaxBookmarkWidthEM": {
+      "message": "'m' Symbole"
+   },
+   "twMaxBookmarkWidthIN": {
+      "message": "Zoll"
+   },
+   "twMaxBookmarkWidthMM": {
+      "message": "Millimeter"
+   },
+   "twMaxBookmarkWidthPX": {
+      "message": "Pixel"
+   },
+   "twMeasurePX": {
+      "message": "px"
+   },
+   "twMenuConfig": {
+      "message": "Lesezeichensmenü-Enstellungen"
+   },
+   "twRestoreDefault": {
+      "message": "Wiederherstellen"
+   },
+   "twScrollBarWidth": {
+      "message": "Rollbalkensbreite:"
+   },
+   "twShowTooltip": {
+      "message": "Tooltip für lange Lesezeichen zeigen"
+   },
+   "twShowURL": {
+      "message": "Tooltip mit URL zeigen "
+   }
+}

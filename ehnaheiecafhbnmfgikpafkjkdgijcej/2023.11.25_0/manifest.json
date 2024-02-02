@@ -1,0 +1,38 @@
+{
+   "action": {
+      "default_icon": "icons/icon-128.png",
+      "default_popup": "src/pages/popup/index.html"
+   },
+   "background": {
+      "service_worker": "service-worker-loader.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "assets/index.e3b0c442.css" ],
+      "js": [ "assets/index.tsx-loader.41f96f98.js" ],
+      "matches": [ "*://*.facebook.com/*", "*://twitter.com/*", "*://*.linkedin.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "Chrome extension which shows bookmarks menu.",
+   "host_permissions": [ "*://*.facebook.com/*", "*://twitter.com/*", "*://*.linkedin.com/*" ],
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png"
+   },
+   "manifest_version": 3,
+   "name": "My Bookmarks Menu",
+   "options_page": "src/pages/options/index.html",
+   "permissions": [ "bookmarks", "favicon", "fontSettings", "storage", "declarativeNetRequest" ],
+   "version": "2023.11.25",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "assets/js/*.js", "assets/css/*.css", "assets/img/*" ],
+      "use_dynamic_url": false
+   }, {
+      "matches": [ "*://*.facebook.com/*", "*://*.linkedin.com/*", "*://twitter.com/*" ],
+      "resources": [ "assets/index.tsx.db313a81.js" ],
+      "use_dynamic_url": true
+   } ]
+}

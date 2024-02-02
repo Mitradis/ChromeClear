@@ -1,0 +1,38 @@
+{
+   "changeTab": {
+      "message": "¿Quieres seguir ordenando los videos por los más vistos?"
+   },
+   "changeTabFb": {
+      "message": "¿Reseguise auto carga foto?"
+   },
+   "description": {
+      "message": "Ordena videos de usuarios por los más vistos."
+   },
+   "extDescription": {
+      "message": "Ordena videos de usuarios de TikTok por los más vistos."
+   },
+   "extNotWork": {
+      "message": "Si no funciona, intenta actualizar la página."
+   },
+   "incompatibleVersion": {
+      "message": "La extensión no es compatible con la versión web de TikTok.\nPor favor contacta con el desarrollador."
+   },
+   "noVideos": {
+      "message": "El usuario no tiene ningún video."
+   },
+   "notPhotosPage": {
+      "message": "Ko mba’ekuaarã omba’apo ta’ãngamýi página-pe añoite umi puruhára perfil-pe."
+   },
+   "notUserPage": {
+      "message": "La extensión solo funciona en páginas de usuarios."
+   },
+   "start": {
+      "message": "Iniciar"
+   },
+   "stop": {
+      "message": "Parar"
+   },
+   "warningAlert": {
+      "message": "Con el fin de proteger tu cuenta, recomendamos utilizar siempre la extensión sin iniciar sesión en TikTok."
+   }
+}
